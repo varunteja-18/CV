@@ -2,7 +2,6 @@
 
 <head>
   <meta charset="utf-8">
-  <title>tejj's personal site</title>
 </head>
 
 <body>
